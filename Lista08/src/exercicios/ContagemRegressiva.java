@@ -19,6 +19,7 @@ public class ContagemRegressiva {
 		
 		
 sc.close();
-;	}
+
+	}
 
 }
